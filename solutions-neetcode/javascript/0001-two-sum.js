@@ -1,3 +1,4 @@
+/* eslint-disable semi */
 /**
  * Brute Force - Linear Search
  * Time O(N^2) | Space O(1)
